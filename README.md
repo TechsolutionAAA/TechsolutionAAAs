@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/Gangstar0312"><img src="https://api.daily.dev/devcards/e3f23db2a74e4af8b160a132c3d18f6b.png?r=lvq" width="400" alt="Software Engineer's Dev Card"/></a>
+<a href="https://app.daily.dev/Gangstar0312"><img src="https://github.com/Gangstar0312/Gangstar0312/blob/master/devcard.svg" width="400" alt="Software Engineer's Dev Card"/></a>
 <p align="center">
  💎 💎 💎 </br>
  Let's coding every day, Learn every time.<br>
