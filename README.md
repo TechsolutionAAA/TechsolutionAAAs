@@ -18,7 +18,7 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working at [AdaptiveCode].
+- 🔭 I was working at [AdaptiveCode].
 - 🧐 Always learning about blockchain, smart contracts, and web development.
 - 🤔 I’m looking for help with L2 technologies.
 - 💬 Ping me about blockchain stuff.
@@ -59,5 +59,5 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 
 [AdaptiveCode]: https://www.adaptivecode.io/
-[resume]: https://drive.google.com/file/d/1i25kAYf501MPy1ywMSIlgnAM5ZlRYDKF/view?usp=sharing
+[resume]: https://github.com/Gangstar0312/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
 
