@@ -17,7 +17,7 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 My Portofolio is [AdaptiveCode].
+- 🔭 My Portofolio is [Stanislav].
 - 🧐 Always learning about blockchain, smart contracts, and web development.
 - 🤔 I’m looking for help with L2 technologies.
 - 💬 Ping me about blockchain stuff.
@@ -57,6 +57,6 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BravoNatalie.BravoNatalie)
 
 
-[AdaptiveCode]: https://gangstar0312.github.io/portfolio/
+[Stanislav]: https://gangstar0312.github.io/portfolio/
 [resume]: https://github.com/Gangstar0312/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
 
