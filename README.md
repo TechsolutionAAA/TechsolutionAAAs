@@ -5,49 +5,59 @@
  Let's go beyond our limits<br>
 </p>
 
-# Hi there 👋 , I'm a GangStar!
-I specialize in Front End Web Engineer & Blockchain Engineer. Currently, I am open to any opportunity, especially in IT as a Web Developer and Mobile Developer. I also make plugin for open source, you can check on npm package and composer package with prefix @aacassandra. I hope it will be of use to many people.
-<table style="border-size:0px">
-  <tr >
-<td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="60"> TypeScript</td> 
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="90"> React</td>  
-    <td style="border: none;"><img src="https://w7.pngwing.com/pngs/204/32/png-transparent-zcash-ethereum-neo-litecoin-cryptocurrency-crypto-currency-thumbnail.png" width="90"> Ethereum </td>   
-    <td style="border: none;"><img src="https://w7.pngwing.com/pngs/572/784/png-transparent-bitcoin-cash-cryptocurrency-ethereum-bitcoin-logo-material-trade-thumbnail.png" width="100"> Blockchain</td>  
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="90"> Node.js</td>
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="90"> Laravel </td>
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="90"> Python </td>  
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="90"> MySQL</td>    
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="90"> C/C++ </td>
-                         
-   </tr>
-  </table>
-### About Me:
- <summary><strong>What i am learning/working on these days</strong></summary>
-  - 🔭 I currently work as a Full Stack Web Engineer </br>
-  - 📱 I also worked on and studied about Blockchain </br>
-  - 🌱 I'm currently exploring the world of Solana </br>
-  - 🌎 Deploying web app to server and manage database <br/>
-  - 💬 Ask me about anything. </br>
-  - ⚡ Fun facts: ... </br>
-  
-### Languages and Tools
+## Hi 👋, I'm Gangstar!
+
+I'm a Blockchain Developer graduated in Computer Science and I'm working on some side projects, learning a couple new skills, and trying to regain the habit of reading fiction books.
+
+[![linkedin](https://img.shields.io/badge/-@nataliebravo-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/nataliebravo/)](https://www.linkedin.com/in/nataliebravo/)
+[![Gmail](https://img.shields.io/badge/-natalie.bravo-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:natalie.bravo@outlook.com)
+[![Spotify](https://img.shields.io/badge/-@Natalie%20Bravo-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)](https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)
+
+
+<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
+
+## ⚡️ A Few Quick Facts
+
+- 🔭 I’m currently working at [AdaptiveCode].
+- 🧐 Always learning about blockchain, smart contracts, and web development.
+- 🤔 I’m looking for help with L2 technologies.
+- 💬 Ping me about blockchain stuff.
+- 📙 Check out my [resume].
+- 🎉 Fun Fact: I like cyberpunk and Lo-fi。
+
+
+<h2>🚀 Some Tools I Use</h2>
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
-<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
-<a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> 
-<a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+  
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BAC9F9?style=flat-square&logo=solidity&logoColor=363636" />
+<img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Boostrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+
 </p>
+
+
+![BravoNatalie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bravonatalie&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BravoNatalie&langs_count=6&hide=TeXt&hide_border=true&layout=compact&theme=radical)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BravoNatalie.BravoNatalie)
+
+
+[AdaptiveCode]: https://www.adaptivecode.io/
+[resume]: https://drive.google.com/file/d/1i25kAYf501MPy1ywMSIlgnAM5ZlRYDKF/view?usp=sharing
+
