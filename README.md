@@ -9,16 +9,14 @@
 
 I'm a Blockchain Developer graduated in Computer Science and I'm working on some side projects, learning a couple new skills, and trying to regain the habit of reading fiction books.
 
-[![linkedin](https://img.shields.io/badge/-@nataliebravo-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/nataliebravo/)](https://www.linkedin.com/in/nataliebravo/)
-[![Gmail](https://img.shields.io/badge/-natalie.bravo-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:natalie.bravo@outlook.com)
-[![Spotify](https://img.shields.io/badge/-@Natalie%20Bravo-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)](https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)
-
+[![linkedin](https://img.shields.io/badge/-@nataliebravo-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/stanislav/)](https://www.linkedin.com/in/stanislav/)
+[![Gmail](https://img.shields.io/badge/-natalie.bravo-c14438?style=flat-square&logo=Gmail&logoColor=white)](kogutstt2@gmail.com)
 
 <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I was working at [AdaptiveCode].
+- 🔭 My Portofolio is [AdaptiveCode].
 - 🧐 Always learning about blockchain, smart contracts, and web development.
 - 🤔 I’m looking for help with L2 technologies.
 - 💬 Ping me about blockchain stuff.
@@ -58,6 +56,6 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BravoNatalie.BravoNatalie)
 
 
-[AdaptiveCode]: https://www.adaptivecode.io/
+[AdaptiveCode]: https://gangstar0312.github.io/portfolio/
 [resume]: https://github.com/Gangstar0312/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
 
