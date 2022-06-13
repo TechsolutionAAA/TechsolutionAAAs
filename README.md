@@ -50,8 +50,11 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 </p>
 
- <h3 align="left">Badges for Github activity:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qingshen0802" alt="qingshen0802" /></a> </p>
+<a><h2>🏆 Github Profile Trophy</h2></a>
+<a>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
 
 ![BravoNatalie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bravonatalie&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BravoNatalie&langs_count=6&hide=TeXt&hide_border=true&layout=compact&theme=radical)
