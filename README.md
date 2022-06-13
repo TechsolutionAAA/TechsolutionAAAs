@@ -9,8 +9,8 @@
 
 I'm a Blockchain Developer graduated in Computer Science and I'm working on some side projects, learning a couple new skills, and trying to regain the habit of reading fiction books.
 
-[![linkedin](https://img.shields.io/badge/-@nataliebravo-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/stanislav/)](https://www.linkedin.com/in/stanislav/)
-[![Gmail](https://img.shields.io/badge/-natalie.bravo-c14438?style=flat-square&logo=Gmail&logoColor=white)](kogutstt2@gmail.com)
+[![Gmail](https://img.shields.io/badge/-kogutstt2-c14438?style=flat-square&logo=Gmail&logoColor=white)](kogutstt2@gmail.com)
+[![Telegram](https://img.shields.io/badge/-mRcoin1220-c14438?style=flat-square&logo=Telegram&logoColor=white)](kogutstt2@gmail.com)
 
 <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
 
