@@ -62,6 +62,6 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BravoNatalie.BravoNatalie)
 
 
-[Stanislav]: https://gangstar0312.github.io/portfolio/
+[Stanislav]: https://gangster0312.github.io/portfolio/
 [resume]: https://github.com/Gangstar0312/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
 
