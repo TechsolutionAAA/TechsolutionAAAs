@@ -49,7 +49,9 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 
 </p>
-
+<p align="center">
+  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 <a><h2>🏆 Github Profile Trophy</h2></a>
 <a>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
