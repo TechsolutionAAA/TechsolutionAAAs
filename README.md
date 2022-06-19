@@ -13,7 +13,7 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 [![Telegram](https://img.shields.io/badge/-@mRcoin1220-c14438?style=flat-square&logo=Telegram&logoColor=red)](https://t.me/mRcoin1220)
 [![Skype](https://img.shields.io/badge/-@mRcoin1220-c14438?style=flat-square&logo=Skype&logoColor=pink)](live:.cid.2d0eaf630ad3c45)
 
-<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
+<img align="right" src="https://www.cryptorecruit.com/media/qyllkh4j/banimg.png" width="500"/>
 
 ## ⚡️ A Few Quick Facts
 
@@ -52,6 +52,7 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 <p align="center">
   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
 <a><h2>🏆 Github Profile Trophy</h2></a>
 <a>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
