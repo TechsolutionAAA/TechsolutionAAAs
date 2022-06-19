@@ -65,5 +65,5 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 
 [Stanislav]: https://gangster0312.github.io/portfolio/
-[resume]: https://github.com/Gangstar0312/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
+[resume]: https://github.com/Gangster0312/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
 
