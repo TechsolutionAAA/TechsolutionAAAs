@@ -33,7 +33,7 @@ I'm full time developer. Please contact me at kogutstt2@gmail.com
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 My Portofolio is [Stanislav].
+- 🔭 My Portofolio is [here].
 - 🧐 Always learning about blockchain, smart contracts, and web development.
 - 🤔 I’m looking for help with L2 technologies.
 - 💬 Ping me about blockchain stuff.
