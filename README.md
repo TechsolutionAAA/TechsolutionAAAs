@@ -58,6 +58,6 @@ I'm full time developer. Please contact me at kogutstt2@gmail.com
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BravoNatalie.BravoNatalie)
 
 
-[Stanislav]: https://gangster0312.github.io/portfolio/
+[here]: https://gangster0312.github.io/portfolio/
 [resume]: https://github.com/Gangster0312/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
 
