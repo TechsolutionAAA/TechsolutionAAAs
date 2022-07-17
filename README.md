@@ -1,7 +1,9 @@
 <p align="center">
   <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
-<p align="center"><a href="https://app.daily.dev/kogutstt2"><img src="https://api.daily.dev/devcards/e3f23db2a74e4af8b160a132c3d18f6b.png?r=y90" width="400" alt="Software Engineer's Dev Card"/></a></a></p>
+<p align="center">
+  <img src="https://github.com/kimura-sang/kimura-sang/blob/main/developing.jpg" />
+</p>
 <p align="center">
  💎 💎 💎 </br>
  Let's coding every day, Learn every time.<br>
@@ -32,7 +34,7 @@ I'm full time developer. Please contact me at kogutstt2@gmail.com
 [![Telegram](https://img.shields.io/badge/-@mRcoin1220-c14438?style=flat-square&logo=Telegram&logoColor=red)](https://t.me/mRcoin1220)
 [![Skype](https://img.shields.io/badge/-@mRcoin1220-c14438?style=flat-square&logo=Skype&logoColor=pink)](live:.cid.2d0eaf630ad3c45)
 
-<img align="right" src="https://www.cryptorecruit.com/media/qyllkh4j/banimg.png" width="500"/>
+<a href="https://app.daily.dev/kogutstt2"><img align="right" src="https://api.daily.dev/devcards/e3f23db2a74e4af8b160a132c3d18f6b.png?r=y90" width="400" alt="Software Engineer's Dev Card"/></a></a>
 
 ## ⚡️ A Few Quick Facts
 
