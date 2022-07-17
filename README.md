@@ -8,7 +8,7 @@
  Let's go beyond our limits<br>
 </p>
 
-## Hi 👋, I'm Gangster!
+## Hi 👋, I'm Stanislav Kohut!
 
 Senior full-stack developer with 10+ years of experience building high performing presentations, layers, reusable components and performance optimization with React.js, Redux, Next- JavaScript, HTML, CSS, back-end with Node.js. Specialized in developing 20+ useful, well-constructed websites and applications using React.js and Node.js. 
 Enough experience in Blockchain Technologies like DeFi, DAO, Crypto, Ethereum, Avalanche, Solidity, Solana, web3.js, Smart Contracts (NFT/ERC20/ERC721), ICO/IEO, Exchange Platforms and NFT marketplace. Experience in SQL programming language in MySQL, OraclePL/SQL and other database environments like MongoDB and PostgreSQL.
