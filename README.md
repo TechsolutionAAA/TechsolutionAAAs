@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/Gangster0312"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
-<p align="center"><a href="https://app.daily.dev/Gangster0312"><img src="https://api.daily.dev/devcards/e3f23db2a74e4af8b160a132c3d18f6b.png?r=cii" width="400" alt="Software Engineer's Dev Card"/></a></a></p>
+<p align="center"><a href="https://app.daily.dev/Gangster0312"><img src="https://api.daily.dev/devcards/e3f23db2a74e4af8b160a132c3d18f6b.png?r=y90" width="400" alt="Software Engineer's Dev Card"/></a></a></p>
 <p align="center">
  💎 💎 💎 </br>
  Let's coding every day, Learn every time.<br>
