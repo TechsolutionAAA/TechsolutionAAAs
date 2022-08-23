@@ -28,7 +28,7 @@ Main Skills:
 - MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
 - AWS, DigitalOcean, Heroku 
 
-I'm full time developer. Please contact me at kogutstt2@gmail.com
+I'm full time developer. Please contact me at ctiptopper@gmail.com
 
 [![Gmail](https://img.shields.io/badge/-kogutstt2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=yellow)](kogutstt2@gmail.com)
 [![Telegram](https://img.shields.io/badge/-@mRcoin1220-c14438?style=flat-square&logo=Telegram&logoColor=red)](https://t.me/mRcoin1220)
