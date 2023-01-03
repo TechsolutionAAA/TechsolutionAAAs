@@ -6,8 +6,8 @@
 </p>
 <p align="center">
  💎 💎 💎 </br>
- Let's coding every day, Learn every time.<br>
- Let's go beyond our limits<br>
+ Let's code every day, Learn every time,<br>
+ Always going beyond our limits!<br>
 </p>
 
 ## Hi 👋, Senior Web & Mobile Developer!
