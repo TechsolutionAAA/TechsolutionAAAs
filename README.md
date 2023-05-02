@@ -28,7 +28,7 @@ Main Skills:
 - MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
 - AWS, DigitalOcean, Heroku 
 
-I'm full time developer. Please contact me at tomford8389@gmail.com
+I'm full time developer. Please contact me at ctiptopper@gmail.com
 
 <a href="https://app.daily.dev/kogutstt2"><img align="right" src="https://api.daily.dev/devcards/e3f23db2a74e4af8b160a132c3d18f6b.png?r=y90" width="400" alt="Software Engineer's Dev Card"/></a></a>
 
