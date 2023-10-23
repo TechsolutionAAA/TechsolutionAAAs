@@ -1,51 +1,243 @@
-<p align="center">
-  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
-<!-- <p align="center">
-  <img src="akudama-drive-anime_4.1.gif" />
-</p>
-<p align="center"> -->
- 💎 💎 💎 </br>
- Let's coding every day, Learn every time.<br>
- Let's go beyond our limits<br>
-</p>
+# Projects participated during development<br /> ( EVM | SOL | BSC | COSMOS | NEAR )
 
-## Hi 👋, Senior Web & Mobile Developer!
+Here are the projects I've participated so far.
 
-Senior full-stack developer with 10+ years of experience building high performing presentations, layers, reusable components and performance optimization with React.js, Redux, Next- JavaScript, HTML, CSS, back-end with Node.js. Specialized in developing 20+ useful, well-constructed websites and applications using React.js and Node.js. 
-Enough experience in Blockchain Technologies like DeFi, DAO, Crypto, Ethereum, Avalanche, Solidity, Solana, web3.js, Smart Contracts (NFT/ERC20/ERC721), ICO/IEO, Exchange Platforms and NFT marketplace. Experience in SQL programming language in MySQL, OraclePL/SQL and other database environments like MongoDB and PostgreSQL.
-Able to effectively self-manage during independent projects, as well as leading and collaborating with team members on often time sensitive, different time zone (PST, EST), challenging web & blockchain projects that require outstanding creative and technical capabilities.
+Managing liquidity of leading DeFi and Web3 protocols using tailor-made strategies. These strategies aim to maximize capital efficiency, reduce the cost of emissions, or maintain consistent in-range liquidity with low price impact.
 
-Over the course of 10 years I have worked with a vast amount of technologies.
+<h3><u><strong><i>Gamma Finance</i></strong></u> &nbsp;(ETHEREUM)</h3>
+<hr />
 
-Main Skills:
-- Blockchain, Crypto, Solidity, Smart contract (ERC20, ERC721), NFT, web3.js, ether.js, Dapp, DAO, Defi, NFT, NFT marketplace, Opensea
-- React, React Hooks, React Context, 
-- Tailwind CSS, Material-UI, Bootstrap
-- GraphQL, Apollo
-- Node.js, Express.js, Hapi.js
-- PHP, Wordpress, Laravel, Shopify, Yii, Symfony, Mangeto
-- MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
-- AWS, DigitalOcean, Heroku 
+<img align="right" width="300px" src="https://i.ibb.co/LNvzw0Q/Gamma-landing.png">
 
-I'm full time developer. Please contact me at ctiptopper@gmail.com
+A protocol for active liquidity management and market making strategies. 😜.
 
-<a href="https://app.daily.dev/kogutstt2"><img align="right" src="https://api.daily.dev/devcards/e3f23db2a74e4af8b160a132c3d18f6b.png?r=y90" width="400" alt="Software Engineer's Dev Card"/></a></a>
+Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 3 parts, smart contract, back-end, and front-end integration.
 
-## ⚡️ A Few Quick Facts
+USDC-DAI 0.01% at an emissions rate of 396.8 OP / day for two weeks<br />
+WETH-USDC 0.05% at an emissions rate of 396.8 OP / day for two weeks<br />
+WETH-DAI 0.3% at an emissions rate of 396.8 OP / day for two weeks<br />
+...
 
-- 🧐 Always learning about blockchain, smart contracts, and web development.
-- 🤔 I’m looking for help with L2 technologies.
-- 💬 Ping me about blockchain stuff.
-- 📙 Check out my resume.
-- 🎉 Fun Fact: I like cyberpunk and Lo-fi。
+- Live: <a href="https://gamma.xyz">Gamma Finance</a>
+- Github: <a href="https://github.com/GammaStrategies">Gamma Finance Github</a>
 
 
-## Languages and Tools:
-<p align="left"> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" title="PHP"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
+<h3><u><strong><i>Hubble Protocol</i></strong></u> &nbsp;(SOLANA)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://i.ibb.co/9gys29s/Hubble-Landing.png">
+
+Supercharge Your Liquidity On Solana
+Mint USDH against multiple types of collateral. Repay whenever you want.
+
+- Live: <a href="https://www.hubbleprotocol.io/">Hubble Protocol</a>
+- Github: <a href="https://github.com/hubbleprotocol">Hubble Protocol Github</a>
+
+
+<h3><u><strong><i>Rowship</i></strong></u> &nbsp;(ETHEREUM)</h3>
+<hr />
+
+This is mint website on avalanche network. I used Solidity(ERC 721) to write smart contract and Node/Express, MongoDB to make leaderboard page, and Next.js in front-end side. Mint supply is 500 NFTs.
+
+<img align="right" width="300px" src="https://i.ibb.co/6FY1xCn/rowship1.png">
+
+Supercharge Your Liquidity On Solana<br />
+Mint USDH against multiple types of collateral. Repay whenever you want.<br />
+
+- Live: <a href="https://rowship.com/">Rowship</a>
+
+
+<h3><u><strong><i>Privi Protocol</i></strong></u> &nbsp;(ETHERUM | BSC | POLKADOT)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://i.ibb.co/b5LT7C3/Privi-apps.png">
+
+The Worlds First Dapp Store
+
+Pix: Pix is an NFT dapp that helps NFT collectors get the most out of their NFTs. Whether it is through collateralized loans, rent/borrow or reserve to buy later functions, Pix aims to help NFT owners to maximize their NFT utility without needing to sell it. Explore and create NFTs across Ethereum and Polygon on Pix. <br />
+Trax: Trax is a music protocol that is at the edge of the Web3 music space. Trax aims to aggregate all web3 music from Ethereum and Polygon into one solution to listen to and have fans discover new artists.<br />
+Juice: Juice is an app that allows projects to sell tokens with derivative functions. By selling novel scope tokens, which limit the price fluctuations for community members, projects can give extra rewards and align incentives for long term goals.<br />
+
+- Live: <a href="https://priviprotocol.io/">Privi Protocol</a>
+- Store: <a href="https://www.privi.store/#/zoo">Privi Protocol Store</a>
+
+
+
+<h3><u><strong><i>BASC NFT Staking</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (2) stake a Baby Tiger and (3) stake a matching pair. The details on the amount of $DAB that is earned along with any multiplier bonus are outlined below. 
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/167239937-327a2413-13c1-4828-9f40-be240d40d42e.png">
+
+- Demo: <a href="https://basc-nft-staking.vercel.app">BASC NFT Staking</a>
+- Live Link: <a href="https://stakingv2.babyapesocialclub.com">BASC NFT Staking</a>
+  - Functionality
+    - Stake / Unstake All NFTs - for each tab, Matching Pairs, Pairs, Individual
+    - Claim All Rewards - if these have to be separated by individual staked vs. pairs staked that is ok
+  - Rarity Multiplier
+    - Baby Ape
+      - Rank < 13 = 100 $DAB/day
+      - Rank < 1,000 = 15 $DAB/day
+      - Rank >= 1,000 = 10 $DAB/day
+    - Baby Tiger
+      - Rank < 13 = 20 $DAB/day
+      - Rank < 1,000 = 3 $DAB/day
+      - Rank >= 1,000 = 2 $DAB/day
+  - Pair Multiplier
+    - Matching Baby Ape + Baby Tiger
+      - 25% bonus on the sum of the rarity multiplier.
+- Magic Eden: <a href="https://www.magiceden.io/marketplace/baby_ape_social_club">Buy BASC</a>
+- Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a>
+- Github Repo: <a href="https://github.com/best-lucky1030/BASC-NFT-Staking">BASC-NFT-Staking</a>
+
+
+<h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
+
+<img align="right" width="300px" src="https://miro.medium.com/max/700/1*1WI72-a1PAi388br4HaN5w.png">
+
+- Create KCRWN token: Link--> <a href="https://solscan.io/token/56bFarytGNPXnA34WbghfHoHQJ7NqKSKyTSnfmACdYtk#holders" target="_blank">KCRWN</a>
+- Staking Link: <a href="https://app.kingdomofdwarves.io/staking" target="_blank">KCRWN Staking</a>
+  - users can reward according to their NFT rare
+  - Whenever you want. But keep in mind that you won't be able to get any more staking income.
+- Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
+- Github repo: <a href="https://github.com/best-lucky1030/Dwarves-staking" target="_blank">Dwarves-staking</a>
+- KOD Lore: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
+ 
+ 
+<h3><u><strong><i>The Shiny APES</i></strong></u> &nbsp;(ETHEREUM)</h3>
+<hr />
+
+A Digital art also known as a Non Fungible Token (NFT) is the foundation of the project.
+Our goal involves Building the community and communications between other creators and their members
+further increasing the bond of trust within thr crypto space ! We are extremely excited to be 
+bridging the gap between those who have never had an experience with crypto all the way up 
+to the adept who may Want to explore another exciting opportunity. 
+Many goals have been established and steps towards ours and the overall community goal of safety for users ,
+positive reinforcement with engaging and understanding members !
+
+<img align="right" width="300px" src="https://i.ibb.co/WPYmqqh/Theshinyapes.png" alt="Theshinyapes" border="0">
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+- Original Link: <a href="https://www.theshinyapes.com" target="_blank">The Shiny APES</a>
+
+<br />
+<br />
+<br />
+ 
+ 
+<h3><u><strong><i>FLWR Staking</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/201804913-14357891-d1cb-4147-b487-f7778c68bb36.png">
+
+Staking an SPL token "FLWR"
+
+<!-- - Link: <a href="https://flwr-staking.netlify.app/stake-coins" target="_blank">FLWR Staking</a> -->
+- Link: <a href="https://majestic-alpaca-f02e82.netlify.app" target="_blank">FLWR Staking</a>
+- Live Link: <a href="https://flwrstaking.solflowers.io">SOL Flowers Staking</a>
+  - number of flwr (spl-token) - 50/75/100%
+  - reward period/lock time  - 4/6/12 month
+  - interest  - 3%/6%/12%
+  - transaction fee - 0.1 sol
+  - penalties for early withdrawl - 6/12/24%
+- Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
+- Github repo : <a href="https://github.com/best-lucky1030/FLWR-staking" target="_blank">FLWR-staking</a>
+
+<h3><u><strong>SOL Flowers | Raffle</strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+
+<h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🍂$REAP and $SOL.
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/182041823-ea6fcd55-db77-4ed5-a71f-b9d846ed9887.png">
+
+- Link: <a href="https://eu-raffle.vercel.app/raffle" target="_blank">EU Raffle</a>
+  - Payment method
+    - SOL
+    - $REAP (SPL token)
+  - Reward Type
+    - Receive NFT
+    - Whitelist (Max value is 50)
+    - Tickets (Max value is 2000)
+- Original Links:
+  - Website: <a href="https://www.daku-reapers.com" target="_blank">Daku-Reapers Ressurection</a>
+  - Auction: <a href="https://daku-reapers.auction" target="_blank">Daku-Reapers Auction</a>
+  - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
+- Github repo: <a href="https://github.com/best-lucky1030/EU-raffle" target="_blank">EU-raffle</a>
+
+<h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🦴$BOOGA, 🍭$ZION, and $SOL.
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/169970030-277f578c-d25a-450b-bc40-71767f818df5.png">
+
+- Link: <a href="https://metakongz-raffle-auction.vercel.app/raffle" target="_blank">MetaKongz Raffle</a>
+- Live Link: <a href="https://metakongz-metamart.vercel.app">MetaKongz Raffle</a>
+  - Payment method
+    - $SOL, $BOOGA, $ZION
+  - Reward Type
+    - Receive NFT, WL spots(max: 50)
+- Original Links:
+  - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
+  - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
+- Github repo: <a href="https://github.com/best-lucky1030/raffle-auction-prospect3" target="_blank">raffle-auction-prospect3</a>
+
+<h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
+<hr />
+
+<!-- <img align="right" width="300px" src="https://app.ebisusbay.com/img/collections/cronosnanas/banner.png"> -->
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/170817948-05918b2a-9c26-46cc-97c7-b6cf1c287241.png">
+
+Nifty Nanas.<br />
+Nanas is a deflationary community project of the cutest Nanas on the Solana blockchain! <br/>
+This has Astronana and CoinFlip as well as Cro and Sol version for minting, staking, and launchpad.<br/>
+Now we are adding more features for Nanas.
+
+- Link: <a href="https://cronos-launchpad.herokuapp.com/" target="_blank">Cronos Launchpad</a>
+- Original Link: <a href="https://www.niftynanas.com/" target="_blank">Nifty Nanas</a>
+- Cro version: <a href="https://www.niftynanas.com/cro" target="_blank">Cro Nanas</a>
+- Sol version: <a href="https://www.niftynanas.com/sol" target="_blank">Sol Nanas</a>
+- Sol Staking: <a href="https://staking.niftynanas.com" target="_blank">Staking Nanas</a>
+  (Current Staking is updating.... so It's down now)
+  
+- Git repo: <a href="https://github.com/best-lucky1030/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
+
+<h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166212683-99f62168-fac2-4232-a744-7b72bf5e5f10.png">
+
+- Link: <a href="https://universe97.vercel.app" target="_blank">97 Universe</a>
+- Live Link: <a href="https://the97universe.com">The 97 Universe - StreamFi</a>
+- What is `97 Universe` ?
+  - 497 AI-androids called “97s” were created to compete with some of the greatest athletes on Earth. 97s were so good that humans no longer saw a reason to compete. After boredom struck, the 97s decided to leave Earth and test their skills against the universe. They built a space stadium where challengers from all over the galaxy can compete. Remaining undefeated the 97s decided to claim the universe, calling it `“The 97 Universe”`.
+- Whitepaper: <a href="https://97-universe.gitbook.io/the-97-universe" target="_blank">Gitbook</a>
+- Github repo: <a href="https://github.com/best-lucky1030/Universe97" target="_blank">Universe97</a>
+
+<h3><u><strong><i>Sol Spacemen</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/165689323-678d0769-eca2-429e-92e2-b97621100b71.png">
+
+- Link: <a href="https://www.solspacemen.com" target="_blank">Sol Spacemen</a>
+- Earth is quickly becoming uninhabitable and we need to begin deployment of the materials and resources needed to start construction in the Solanaverse
+- $PARTS token: <a href="https://solscan.io/token/2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk" target="_blank">$PARTS token</a>
+- You can find me at Team member page name is `Venture` as `Dev, Tokenomics and Integration's` <a href="https://www.solspacemen.com/meet-the-team-1" target="_blank">here</a>
+- Git repo: <a href="https://github.com/best-lucky1030/token-list" target="_blank">Space Parts</a>
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
